@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1733918090
+<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1733934461
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 128.10430391505929
-  ZOOM 6.71327952080541 1432 0
-  VZOOMEX 11.17388725 302
+  CURSOR 516.95030796780497
+  ZOOM 1.79901237249658 22 0
+  VZOOMEX 11.17388725 649
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -245,7 +245,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -497,14 +497,14 @@
       SEL 0
       IGUID {ACEDB8BB-0D4F-9E47-B1BA-425119E2142A}
       IID 5
-      NAME fridge+eyes.flac
+      NAME fridge+eyes-imported.flac
       VOLPAN 1 0 1 -1
       SOFFS 0.05482409100313
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {EFF77DB4-10A4-494F-B4DD-CE109B442A74}
       <SOURCE FLAC
-        FILE "Media/fridge+eyes.flac"
+        FILE "Media/fridge+eyes-imported.flac"
       >
     >
   >
@@ -684,7 +684,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -704,17 +704,17 @@
       FADEIN 1 0.07784729811794 0 1 0 0 0
       FADEOUT 5.1 0 0 5.1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {17585E4C-1FD1-194E-99B3-259243DCBC0F}
       IID 4
-      NAME flesh-imported.flac
+      NAME flesh-imported-001.flac
       VOLPAN 1 0 1 -1
       SOFFS 0.01934329943066
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {77515193-B68E-8648-9B94-3462A00C72DF}
       <SOURCE FLAC
-        FILE "Media/flesh-imported.flac"
+        FILE "Media/flesh-imported-001.flac"
       >
     >
   >
